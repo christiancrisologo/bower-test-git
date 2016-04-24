@@ -1,0 +1,29 @@
+{
+  "name": "new test 3",
+  "versions":"0.0.1",
+  "authors": ["christian"],
+  "description": "teting bower",
+  "main": "index.html",
+  "keywords": [
+    "bower"
+  ],
+  "license": "MIT",
+  "homepage": "cyndrix.com",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/js",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.5",
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.3",
+    "lodash": "^4.11.2",
+    "angular-resource": "^1.5.5",
+    "angular-route": "^1.5.5"
+  }
+}
